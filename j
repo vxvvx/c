@@ -8,7 +8,7 @@
         "128": {
             "title": "Kaguya Wants to Shoot Them Down",
             "volume": "13",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/qSyOMjd.jpg",
@@ -36,7 +36,7 @@
         "135": {
             "title": "Dual Confessions, Part 2",
             "volume": "14",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/50nAwd9.png",
@@ -64,7 +64,7 @@
         "137": {
             "title": "The Shuchiin Afterparty",
             "volume": "14",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/i34mXkX.png",
@@ -92,7 +92,7 @@
         "159": {
             "title": "Kaguya... , Part 1",
             "volume": "16",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/fzTqDUq.jpg",
@@ -120,7 +120,7 @@
         "171": {
             "title": "We want to talk about the Tabletop Gaming Club",
             "volume": "17",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/IxrHI4L.png",
@@ -148,7 +148,7 @@
         "226": {
             "title": "Kaguya Shinomiya's Impossible Challenge: \"The Buddha's Stone Begging Bowl\" (Part 2)",
             "volume": "17",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/zDV3wwE.png",
@@ -177,7 +177,7 @@
         "245": {
             "title": "Thus, Yu Ishigami Closed His Eyes (Part 4)",
             "volume": "25",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/2Qz08hK.jpg",
@@ -206,7 +206,7 @@
         "246": {
             "title": "Thus, Yu Ishigami Closed His Eyes (Part 5)",
             "volume": "25",
-            "last_updated": "1656773419",
+            "last_updated": "1656799566",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/44g99DN.jpg",
