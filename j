@@ -120,7 +120,7 @@
         "160": {
             "title": "Kaguya... , Part 2",
             "volume": "16",
-            "last_updated": "1657437045",
+            "last_updated": "1657461792",
             "groups": {
                 "vex": [
     "https://i.imgur.com/tWk0Yan.jpg",
@@ -140,8 +140,8 @@
     "https://i.imgur.com/1dJCih6.jpg",
     "https://i.imgur.com/O0zTAlR.jpg",
     "https://i.imgur.com/yUTEhR7.jpg",
-                    "https://i.imgur.com/t5NLDnB.jpg",
-                    "https://i.imgur.com/RW3Vx0G.jpg"
+    "https://i.imgur.com/gHpygRb.jpg",
+    "https://i.imgur.com/RW3Vx0G.jpg"
                 ]
             }
         },
