@@ -117,6 +117,34 @@
                 ]
             }
         },
+        "160": {
+            "title": "Kaguya... , Part 2",
+            "volume": "16",
+            "last_updated": "1657437045",
+            "groups": {
+                "vex": [
+    "https://i.imgur.com/tWk0Yan.jpg",
+    "https://i.imgur.com/3Rs0Jos.jpg",
+    "https://i.imgur.com/fNsyE98.jpg",
+    "https://i.imgur.com/YfW3QxP.jpg",
+    "https://i.imgur.com/FVYk6Op.jpg",
+    "https://i.imgur.com/8jhdLCo.jpg",
+    "https://i.imgur.com/YzwLNhN.jpg",
+    "https://i.imgur.com/XjiVux6.jpg",
+    "https://i.imgur.com/stpYkSl.jpg",
+    "https://i.imgur.com/JX0CvUQ.jpg",
+    "https://i.imgur.com/qSHscOf.jpg",
+    "https://i.imgur.com/hUdWy34.jpg",
+    "https://i.imgur.com/dWnB3iV.jpg?_w.",
+    "https://i.imgur.com/wuMllmO.jpg",
+    "https://i.imgur.com/1dJCih6.jpg",
+    "https://i.imgur.com/O0zTAlR.jpg",
+    "https://i.imgur.com/yUTEhR7.jpg",
+                    "https://i.imgur.com/t5NLDnB.jpg",
+                    "https://i.imgur.com/RW3Vx0G.jpg"
+                ]
+            }
+        },
         "171": {
             "title": "We want to talk about the Tabletop Gaming Club",
             "volume": "17",
