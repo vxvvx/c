@@ -202,6 +202,35 @@
                 ]
             }
         },
+        "238": {
+            "title": "Yu Ishigami Wants to Invite",
+            "volume": "24",
+            "last_updated": "1658069192",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/zDV3wwE.png",
+                    "https://i.imgur.com/zAmk8tc.png",
+                    "https://i.imgur.com/M1MRpaS.png",
+                    "https://i.imgur.com/hzWNPt8.png",
+                    "https://i.imgur.com/Y8UvT9R.png",
+                    "https://i.imgur.com/19yI4nL.png",
+                    "https://i.imgur.com/e0lN0RA.png",
+                    "https://i.imgur.com/eqcJoQq.png",
+                    "https://i.imgur.com/aXPa1Kx.png",
+                    "https://i.imgur.com/Y28JDTM.png",
+                    "https://i.imgur.com/dq1vOjN.png",
+                    "https://i.imgur.com/sA0HvuM.png",
+                    "https://i.imgur.com/hEFzpUi.png",
+                    "https://i.imgur.com/72fgx4A.png",
+                    "https://i.imgur.com/nR9AWwM.png",
+                    "https://i.imgur.com/aTUrvkU.png",
+                    "https://i.imgur.com/2OkBmch.png",
+                    "https://i.imgur.com/Pe8LpY8.png",
+                    "https://i.imgur.com/O1PHr6S.png",
+                    "https://i.imgur.com/opSyISx.png"
+                ]
+            }
+        },
         "245": {
             "title": "Thus, Yu Ishigami Closed His Eyes (Part 4)",
             "volume": "25",
