@@ -288,7 +288,7 @@
                 ]
             }
         },
-        "S0": {
+        "0.01": {
             "title": "Highlights of cleanup",
             "volume": "Extras",
             "last_updated": "1658092705",
