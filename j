@@ -173,6 +173,34 @@
                 ]
             }
         },
+        "174": {
+            "title": "Miko Iino Cannot Love, Part 4",
+            "volume": "18",
+            "last_updated": "1660700279",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/wAsyA06.jpg",
+                    "https://i.imgur.com/p1nKoQF.jpg",
+                    "https://i.imgur.com/sQZGova.jpg",
+                    "https://i.imgur.com/BLnJmVQ.jpg",
+                    "https://i.imgur.com/GWWm2oh.jpg",
+                    "https://i.imgur.com/hZN2hnk.jpg",
+                    "https://i.imgur.com/fFm0C5X.jpg",
+                    "https://i.imgur.com/rkq17WO.jpg",
+                    "https://i.imgur.com/tlwyI7O.jpg",
+                    "https://i.imgur.com/bPnRkOf.jpg",
+                    "https://i.imgur.com/k1UzXQs.jpg",
+                    "https://i.imgur.com/1Vy1OYM.jpg",
+                    "https://i.imgur.com/XEH8nBd.jpg",
+                    "https://i.imgur.com/1H179Q2.jpg",
+                    "https://i.imgur.com/qE26cUd.jpg",
+                    "https://i.imgur.com/NqIacda.jpg",
+                    "https://i.imgur.com/pLjoDrv.jpg",
+                    "https://i.imgur.com/91IQrkb.jpg",
+                    "https://i.imgur.com/1wuj0fa.jpg"
+                ]
+            }
+        },
         "226": {
             "title": "Kaguya Shinomiya's Impossible Challenge: \"The Buddha's Stone Begging Bowl\" (Part 2)",
             "volume": "17",
