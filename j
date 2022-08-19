@@ -256,6 +256,34 @@
                 ]
             }
         },
+        "195": {
+            "title": "Valentine's At Suchiin, Part 2",
+            "volume": "18",
+            "last_updated": "1660875168",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/4Ci1gtl.png",
+                    "https://i.imgur.com/gLFfa72.png",
+                    "https://i.imgur.com/vxMVA0n.png",
+                    "https://i.imgur.com/fFij9qo.png",
+                    "https://i.imgur.com/vAFJNWH.png",
+                    "https://i.imgur.com/B4QFQ3N.png",
+                    "https://i.imgur.com/PmH9AcC.png",
+                    "https://i.imgur.com/ETvUh20.png",
+                    "https://i.imgur.com/csxNG8d.png",
+                    "https://i.imgur.com/BY7cXjQ.png",
+                    "https://i.imgur.com/BMOkwOd.png",
+                    "https://i.imgur.com/Um1G5wS.png",
+                    "https://i.imgur.com/yUogILL.png",
+                    "https://i.imgur.com/cxFpiY9.png",
+                    "https://i.imgur.com/QSSM9BZ.png",
+                    "https://i.imgur.com/I3gDBuz.png",
+                    "https://i.imgur.com/WJaRq4U.png",
+                    "https://i.imgur.com/6Pc3Cqw.png",
+                    "https://i.imgur.com/MdnWmIR.png"
+                ]
+            }
+        },
         "216": {
             "title": "Kaguya And The Girls Want To Talk",
             "volume": "22",
