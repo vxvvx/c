@@ -116,6 +116,34 @@
                 ]
             }
         },
+        "141": {
+            "title": "Regarding Kaguya Shinomiya, Part 3",
+            "volume": "14",
+            "last_updated": "1660874132",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/50u74em.png",
+                    "https://i.imgur.com/rUy5h1r.png",
+                    "https://i.imgur.com/j8cIH8M.png",
+                    "https://i.imgur.com/qaZ2TGa.png",
+                    "https://i.imgur.com/IVqTLiS.png",
+                    "https://i.imgur.com/ncoIWk9.png",
+                    "https://i.imgur.com/4qopWAm.png",
+                    "https://i.imgur.com/PKNvRDR.png",
+                    "https://i.imgur.com/gkAaQ12.png",
+                    "https://i.imgur.com/O0Pyrgn.png",
+                    "https://i.imgur.com/tVRzWrU.png",
+                    "https://i.imgur.com/RfQbyPT.png",
+                    "https://i.imgur.com/GFt8bNj.png",
+                    "https://i.imgur.com/EP9d6UH.png",
+                    "https://i.imgur.com/tdDN6Jo.png",
+                    "https://i.imgur.com/vLc9kPO.png",
+                    "https://i.imgur.com/EJHUs32.png",
+                    "https://i.imgur.com/2I8mcoX.png",
+                    "https://i.imgur.com/HpqH0Pd.png"
+                ]
+            }
+        },
         "159": {
             "title": "Kaguya... , Part 1",
             "volume": "16",
