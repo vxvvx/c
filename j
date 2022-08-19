@@ -1,10 +1,37 @@
 {
     "title": "Kaguya-sama Color chapters - English",
-    "description": "Archive for color scanlations by vex",
+    "description": "Archive for color scanlations",
     "artist": "Aka Akasaka",
     "author": "Aka Akasaka",
     "cover": "https://i.imgur.com/50nAwd9.png",
     "chapters": {
+        "112": {
+            "title": "Miyuki Shirogane Wants to be Confessed To, Part 1",
+            "volume": "12",
+            "last_updated": "1660872436",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/vpAOrJg.png",
+                    "https://i.imgur.com/4AoGG5l.png",
+                    "https://i.imgur.com/xx3b6LF.png",
+                    "https://i.imgur.com/9ToFAmr.png",
+                    "https://i.imgur.com/v4ANENq.png",
+                    "https://i.imgur.com/RJhofDP.png",
+                    "https://i.imgur.com/6b37Kxk.png",
+                    "https://i.imgur.com/AhjFZ8z.png",
+                    "https://i.imgur.com/Ao85051.png",
+                    "https://i.imgur.com/1xnhLqw.png",
+                    "https://i.imgur.com/Y39GpJa.png",
+                    "https://i.imgur.com/1sPX3bK.png",
+                    "https://i.imgur.com/eYXJrww.png",
+                    "https://i.imgur.com/g0O7rLk.png",
+                    "https://i.imgur.com/xbntYrN.png",
+                    "https://i.imgur.com/lV01hyP.png",
+                    "https://i.imgur.com/85iU947.png",
+                    "https://i.imgur.com/ytxfWpG.png"
+                ]
+            }
+        },
         "128": {
             "title": "Kaguya Wants to Shoot Them Down",
             "volume": "13",
