@@ -339,6 +339,34 @@
                 ]
             }
         },
+        "221": {
+            "title": "Kaguya-Sama Wants to Talk",
+            "volume": "22",
+            "last_updated": "1660912037",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/QVZmNR2.png",
+                    "https://i.imgur.com/i3vSa6U.png",
+                    "https://i.imgur.com/529B0Mb.png",
+                    "https://i.imgur.com/Z3fwp8H.png",
+                    "https://i.imgur.com/NBbEhdF.png",
+                    "https://i.imgur.com/pIVSfF7.png",
+                    "https://i.imgur.com/EBiLfgK.png",
+                    "https://i.imgur.com/47NaQTM.png",
+                    "https://i.imgur.com/5UEE3Kk.png",
+                    "https://i.imgur.com/VmvC06V.png",
+                    "https://i.imgur.com/W8zQnpy.png",
+                    "https://i.imgur.com/KDWKY63.png",
+                    "https://i.imgur.com/c65t0pl.png",
+                    "https://i.imgur.com/uL2j9Wy.png",
+                    "https://i.imgur.com/eksAgWj.png",
+                    "https://i.imgur.com/hkg8IIT.png",
+                    "https://i.imgur.com/ax3MJWd.png",
+                    "https://i.imgur.com/ZgMJeTc.png",
+                    "https://i.imgur.com/K8k9tNP.png"
+                ]
+            }
+        },
         "226": {
             "title": "Kaguya Shinomiya's Impossible Challenge: \"The Buddha's Stone Begging Bowl\" (Part 2)",
             "volume": "23",
