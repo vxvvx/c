@@ -256,9 +256,36 @@
                 ]
             }
         },
+        "216": {
+            "title": "Kaguya And The Girls Want To Talk",
+            "volume": "22",
+            "last_updated": "1660874484",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/ud1kmKX.png",
+                    "https://i.imgur.com/xox59dK.png",
+                    "https://i.imgur.com/qFBDMM2.png",
+                    "https://i.imgur.com/pCuSQad.png",
+                    "https://i.imgur.com/eu9E8GO.png",
+                    "https://i.imgur.com/DK5sobN.png",
+                    "https://i.imgur.com/hx4xQWL.png",
+                    "https://i.imgur.com/bH8KUfu.png",
+                    "https://i.imgur.com/TJILvT9.png",
+                    "https://i.imgur.com/RFSSvtI.png",
+                    "https://i.imgur.com/s2gdc2y.png",
+                    "https://i.imgur.com/iuGsJKJ.png",
+                    "https://i.imgur.com/DUMtn9Q.png",
+                    "https://i.imgur.com/BM02QXZ.png",
+                    "https://i.imgur.com/zuzXhMU.png",
+                    "https://i.imgur.com/awpr2iE.png",
+                    "https://i.imgur.com/22b3vsy.png",
+                    "https://i.imgur.com/onckl6V.png"
+                ]
+            }
+        },
         "226": {
             "title": "Kaguya Shinomiya's Impossible Challenge: \"The Buddha's Stone Begging Bowl\" (Part 2)",
-            "volume": "17",
+            "volume": "23",
             "last_updated": "1656799566",
             "groups": {
                 "vex": [
