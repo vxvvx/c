@@ -200,6 +200,35 @@
                 ]
             }
         },
+        "169": {
+            "title": "The ABCs of Men and Women, Part 1",
+            "volume": "17",
+            "last_updated": "1661649722",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/weyRsim.png",
+                    "https://i.imgur.com/JywUeGw.png",
+                    "https://i.imgur.com/FBKkqHD.png",
+                    "https://i.imgur.com/552KHVd.png",
+                    "https://i.imgur.com/b55CMIw.png",
+                    "https://i.imgur.com/OorRBRC.png",
+                    "https://i.imgur.com/S6FYtfM.png",
+                    "https://i.imgur.com/mHOCRJR.png",
+                    "https://i.imgur.com/0sx8ylw.png",
+                    "https://i.imgur.com/SxaieXG.png",
+                    "https://i.imgur.com/YODTMuB.png",
+                    "https://i.imgur.com/ldH3QgT.png",
+                    "https://i.imgur.com/tomNEHV.png",
+                    "https://i.imgur.com/jdbNEn3.png",
+                    "https://i.imgur.com/OCy80JN.png",
+                    "https://i.imgur.com/jwdosGh.png",
+                    "https://i.imgur.com/bwE6PPl.png",
+                    "https://i.imgur.com/9CwsUt1.png",
+                    "https://i.imgur.com/DMnbk3A.png",
+                    "https://i.imgur.com/cMqWQrR.jpg"
+                ]
+            }
+        },
         "171": {
             "title": "We want to talk about the Tabletop Gaming Club",
             "volume": "17",
