@@ -454,6 +454,33 @@
                 ]
             }
         },
+        "243": {
+            "title": "Ai Hayasaka Wants to Dress Up",
+            "volume": "25",
+            "last_updated": "1661999811",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/sdqTs0C.png",
+                    "https://i.imgur.com/h3kzdHQ.png",
+                    "https://i.imgur.com/jPWGJ0e.png",
+                    "https://i.imgur.com/CVDjy6C.png",
+                    "https://i.imgur.com/nQ8zXsG.png",
+                    "https://i.imgur.com/GLPtMyQ.png",
+                    "https://i.imgur.com/4qSFWdO.png",
+                    "https://i.imgur.com/WsFjnyL.png",
+                    "https://i.imgur.com/FyM2BIN.png",
+                    "https://i.imgur.com/VXeCgIt.png",
+                    "https://i.imgur.com/2W2R84E.png",
+                    "https://i.imgur.com/gUCjmOn.png",
+                    "https://i.imgur.com/WOa3UxQ.png",
+                    "https://i.imgur.com/HVQ3aVh.png",
+                    "https://i.imgur.com/nYfFM62.png",
+                    "https://i.imgur.com/zWmHZqq.png",
+                    "https://i.imgur.com/GEPTmsy.png",
+                    "https://i.imgur.com/Ncd58Kp.png"
+                ]
+            }
+        },
         "245": {
             "title": "Thus, Yu Ishigami Closed His Eyes (Part 4)",
             "volume": "25",
