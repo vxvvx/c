@@ -539,9 +539,35 @@
                 ]
             }
         },
+        "260": {
+            "title": "Kaguya-sama Isn't Lonely",
+            "volume": "26",
+            "last_updated": "1664126634",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/7xP6eVs.png",
+                    "https://i.imgur.com/aYWn7ec.png",
+                    "https://i.imgur.com/UUXgUvk.png",
+                    "https://i.imgur.com/DWesezZ.png",
+                    "https://i.imgur.com/KXONGAD.png",
+                    "https://i.imgur.com/XJeZJBt.png",
+                    "https://i.imgur.com/FNMTYw4.png",
+                    "https://i.imgur.com/whkWIn6.png",
+                    "https://i.imgur.com/9EufDet.png",
+                    "https://i.imgur.com/KQpMRWA.png",
+                    "https://i.imgur.com/PyzhaFM.png",
+                    "https://i.imgur.com/pG1fwif.png",
+                    "https://i.imgur.com/whYZ2BH.png",
+                    "https://i.imgur.com/H9umRJe.png",
+                    "https://i.imgur.com/IElwaqw.png?_w.",
+                    "https://i.imgur.com/9TxKZNe.png"
+
+                ]
+            }
+        },
         "261": {
             "title": "Kaguya-sama Wants to be Confessed To",
-            "volume": "27",
+            "volume": "26",
             "last_updated": "1664064069",
             "groups": {
                 "cheese": [
