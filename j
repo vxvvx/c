@@ -556,12 +556,12 @@
                     "https://i.imgur.com/9EufDet.png",
                     "https://i.imgur.com/KQpMRWA.png",
                     "https://i.imgur.com/PyzhaFM.png",
+                    "https://i.imgur.com/xsYPQ34.png",
                     "https://i.imgur.com/pG1fwif.png",
                     "https://i.imgur.com/whYZ2BH.png",
                     "https://i.imgur.com/H9umRJe.png",
                     "https://i.imgur.com/IElwaqw.png?_w.",
                     "https://i.imgur.com/9TxKZNe.png"
-
                 ]
             }
         },
