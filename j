@@ -539,6 +539,32 @@
                 ]
             }
         },
+        "261": {
+            "title": "Kaguya-sama Wants to be Confessed To",
+            "volume": "27",
+            "last_updated": "1664064069",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/IDH2sAK.png",
+                    "https://i.imgur.com/9fHFZoL.png",
+                    "https://i.imgur.com/JAK8Dos.png",
+                    "https://i.imgur.com/qtm713H.png",
+                    "https://i.imgur.com/0XMy7hH.png",
+                    "https://i.imgur.com/NvEH4FS.png",
+                    "https://i.imgur.com/D6I5gsG.png",
+                    "https://i.imgur.com/Z7zB3CG.png",
+                    "https://i.imgur.com/uzckblK.png",
+                    "https://i.imgur.com/Tc8xR8A.png",
+                    "https://i.imgur.com/KjqaPEv.png",
+                    "https://i.imgur.com/aXmGHrN.png",
+                    "https://i.imgur.com/8MDYtDL.png",
+                    "https://i.imgur.com/zo033vE.png?_w.",
+                    "https://i.imgur.com/NMIIGfx.png",
+                    "https://i.imgur.com/pV5PbyH.png",
+                    "https://i.imgur.com/psJFNDw.png"
+                ]
+            }
+        },
         "0.01": {
             "title": "Highlights of cleanup",
             "volume": "Extras",
