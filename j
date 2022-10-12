@@ -144,6 +144,147 @@
                 ]
             }
         },
+        "154": {
+            "title": "Kaguya Shinomiya's Impossible Challenge: The Swallow's Cowry, Part 2",
+            "volume": "16",
+            "last_updated": "1665586264",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/HOmUmR2.jpg",
+                    "https://i.imgur.com/hXnou9j.jpg",
+                    "https://i.imgur.com/Nj1PHEK.jpg",
+                    "https://i.imgur.com/aoOAWHe.jpg",
+                    "https://i.imgur.com/OaJhNDk.jpg",
+                    "https://i.imgur.com/gitHZm0.jpg",
+                    "https://i.imgur.com/w3skTwp.jpg",
+                    "https://i.imgur.com/Eh5tn6U.jpg",
+                    "https://i.imgur.com/qKZzwgE.jpg",
+                    "https://i.imgur.com/PEQwsaO.jpg",
+                    "https://i.imgur.com/I9WPMFC.jpg",
+                    "https://i.imgur.com/2AtPNoe.jpg",
+                    "https://i.imgur.com/rXq09xs.jpg",
+                    "https://i.imgur.com/kUPRq1N.jpg",
+                    "https://i.imgur.com/flxkkHj.jpg",
+                    "https://i.imgur.com/0pn5iEV.jpg",
+                    "https://i.imgur.com/TT8K3XG.jpg",
+                    "https://i.imgur.com/Umm9fKx.jpg",
+                    "https://i.imgur.com/4g3scVB.jpg"
+                ]
+            }
+        },
+        "154": {
+            "title": "Kaguya Shinomiya's Impossible Challenge: The Swallow's Cowry, Part 2",
+            "volume": "16",
+            "last_updated": "1665586264",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/HOmUmR2.jpg",
+                    "https://i.imgur.com/hXnou9j.jpg",
+                    "https://i.imgur.com/Nj1PHEK.jpg",
+                    "https://i.imgur.com/aoOAWHe.jpg",
+                    "https://i.imgur.com/OaJhNDk.jpg",
+                    "https://i.imgur.com/gitHZm0.jpg",
+                    "https://i.imgur.com/w3skTwp.jpg",
+                    "https://i.imgur.com/Eh5tn6U.jpg",
+                    "https://i.imgur.com/qKZzwgE.jpg",
+                    "https://i.imgur.com/PEQwsaO.jpg",
+                    "https://i.imgur.com/I9WPMFC.jpg",
+                    "https://i.imgur.com/2AtPNoe.jpg",
+                    "https://i.imgur.com/rXq09xs.jpg",
+                    "https://i.imgur.com/kUPRq1N.jpg",
+                    "https://i.imgur.com/flxkkHj.jpg",
+                    "https://i.imgur.com/0pn5iEV.jpg",
+                    "https://i.imgur.com/TT8K3XG.jpg",
+                    "https://i.imgur.com/Umm9fKx.jpg",
+                    "https://i.imgur.com/4g3scVB.jpg"
+                ]
+            }
+        },
+        "155": {
+            "title": "Kaguya Shinomiya's Impossible Challenge: The Swallow's Cowry, Part 3",
+            "volume": "16",
+            "last_updated": "1665586733",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/1Dmhdzw.jpg",
+                    "https://i.imgur.com/lOhsDcX.jpg",
+                    "https://i.imgur.com/EXl0URv.jpg",
+                    "https://i.imgur.com/SJ3TW2S.jpg",
+                    "https://i.imgur.com/0xLVSPu.jpg",
+                    "https://i.imgur.com/SW4scFP.jpg",
+                    "https://i.imgur.com/jc0MsIR.jpg",
+                    "https://i.imgur.com/k2CTC4S.jpg",
+                    "https://i.imgur.com/pnZfvbY.jpg",
+                    "https://i.imgur.com/DtOubnI.jpg",
+                    "https://i.imgur.com/zlME1hk.jpg",
+                    "https://i.imgur.com/iCxXclI.jpg",
+                    "https://i.imgur.com/yK65nBO.jpg",
+                    "https://i.imgur.com/psCytRJ.jpg",
+                    "https://i.imgur.com/lZBt5Jc.jpg",
+                    "https://i.imgur.com/FFwt4wg.jpg",
+                    "https://i.imgur.com/EmxTofS.jpg",
+                    "https://i.imgur.com/gwfR0TA.jpg",
+                    "https://i.imgur.com/u8kVmcF.jpg",
+                    "https://i.imgur.com/U4WO1k2.jpg"
+                ]
+            }
+        },
+        "156": {
+            "title": "Miko Iino Cannot Love, Part 2",
+            "volume": "16",
+            "last_updated": "1665586733",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/DHfnLBm.png",
+                    "https://i.imgur.com/lNzDMBP.jpg",
+                    "https://i.imgur.com/BrGEwvf.jpg",
+                    "https://i.imgur.com/MSmqIix.jpg",
+                    "https://i.imgur.com/9Wn0hu3.jpg",
+                    "https://i.imgur.com/9znnaRZ.jpg",
+                    "https://i.imgur.com/p2KkWoJ.jpg",
+                    "https://i.imgur.com/01vYsz4.jpg",
+                    "https://i.imgur.com/s4nROGB.jpg",
+                    "https://i.imgur.com/7v8hiqc.jpg",
+                    "https://i.imgur.com/J2BfEpa.jpg",
+                    "https://i.imgur.com/MrznqwE.jpg",
+                    "https://i.imgur.com/GzU5ZTu.jpg",
+                    "https://i.imgur.com/suz2J3G.jpg",
+                    "https://i.imgur.com/21PsITY.jpg",
+                    "https://i.imgur.com/YXnMwBc.jpg",
+                    "https://i.imgur.com/MYjJM5i.jpg",
+                    "https://i.imgur.com/pxN4irP.jpg",
+                    "https://i.imgur.com/5el4LKN.jpg"
+                ]
+            }
+        },
+        "158": {
+            "title": "Miko Iino Cannot Love, Part 3",
+            "volume": "16",
+            "last_updated": "1665586885",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/FA8wdHQ.jpg",
+                    "https://i.imgur.com/ftDSNyB.jpg",
+                    "https://i.imgur.com/Ztr3qfD.jpg",
+                    "https://i.imgur.com/D3jSFev.jpg",
+                    "https://i.imgur.com/IpFKUUc.jpg",
+                    "https://i.imgur.com/LM9ao8S.jpg",
+                    "https://i.imgur.com/2oXNQ9m.jpg",
+                    "https://i.imgur.com/4b87DKn.jpg",
+                    "https://i.imgur.com/CUT1sGQ.jpg",
+                    "https://i.imgur.com/cFUMMCH.jpg",
+                    "https://i.imgur.com/EzLYAGa.jpg",
+                    "https://i.imgur.com/DWmzsem.jpg",
+                    "https://i.imgur.com/mpM6ytQ.jpg",
+                    "https://i.imgur.com/ZIjs1Y5.jpg",
+                    "https://i.imgur.com/lY7gPGm.jpg",
+                    "https://i.imgur.com/JSmlCvW.jpg",
+                    "https://i.imgur.com/1CmwmOs.jpg",
+                    "https://i.imgur.com/2JDZtJO.jpg",
+                    "https://i.imgur.com/Z4cpQJv.jpg"
+                ]
+            }
+        },
         "159": {
             "title": "Kaguya... , Part 1",
             "volume": "16",
