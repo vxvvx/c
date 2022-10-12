@@ -735,15 +735,18 @@
         "0.01": {
             "title": "Highlights of cleanup",
             "volume": "Extras",
-            "last_updated": "1658092705",
+            "last_updated": "1665604482",
             "groups": {
                 "vex": [
-    "https://i.imgur.com/jOSEUGX.png",
-    "https://i.imgur.com/MX5v9vN.png?_w.",
-    "https://i.imgur.com/Q3Kks94.png",
-    "https://i.imgur.com/b0IxhZH.png?_w.",
-    "https://i.imgur.com/NSHvjKM.png?_w.",
-    "https://i.imgur.com/tCEf8XJ.png?_w."
+                    "https://i.imgur.com/jOSEUGX.png",
+                    "https://i.imgur.com/MX5v9vN.png?_w.",
+                    "https://i.imgur.com/Q3Kks94.png",
+                    "https://i.imgur.com/usqnEk0.jpg?_w.",
+                    "https://i.imgur.com/Wbz5Ldh.png",
+                    "https://i.imgur.com/JZzsFiY.png?_w.",
+                    "https://i.imgur.com/b0IxhZH.png?_w.",
+                    "https://i.imgur.com/NSHvjKM.png?_w.",
+                    "https://i.imgur.com/tCEf8XJ.png?_w."
                 ]
             }
         }
