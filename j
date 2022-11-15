@@ -5,6 +5,34 @@
     "author": "Aka Akasaka",
     "cover": "https://i.imgur.com/50nAwd9.png",
     "chapters": {
+        "111": {
+            "title": "The Student Council Wants To Advance",
+            "volume": "11",
+            "last_updated": "1668482406",
+            "groups": {
+                "cheese": [
+                    "https://i.imgur.com/eZgv0i5.png",
+                    "https://i.imgur.com/EGpqoba.png",
+                    "https://i.imgur.com/R8lgvFN.png",
+                    "https://i.imgur.com/NJQkahy.png",
+                    "https://i.imgur.com/X4g11Dy.png",
+                    "https://i.imgur.com/qgHWV2g.png",
+                    "https://i.imgur.com/CjQOSuD.png",
+                    "https://i.imgur.com/lqkGrIb.png",
+                    "https://i.imgur.com/ZGaG64K.png",
+                    "https://i.imgur.com/vNJUppF.png",
+                    "https://i.imgur.com/0oioDT5.png",
+                    "https://i.imgur.com/blxMKvx.png",
+                    "https://i.imgur.com/xAkGaRB.png",
+                    "https://i.imgur.com/RlUx2ou.png",
+                    "https://i.imgur.com/rDw5HyP.png",
+                    "https://i.imgur.com/hcqDq7U.png",
+                    "https://i.imgur.com/WiWSUsY.png",
+                    "https://i.imgur.com/EQgV1Lc.png",
+                    "https://i.imgur.com/D1AefON.png"
+                ]
+            }
+        },
         "112": {
             "title": "Miyuki Shirogane Wants to be Confessed To, Part 1",
             "volume": "12",
