@@ -175,9 +175,9 @@
         "145": {
             "title": "Kaguya Wants to Eat (Ice)",
             "volume": "15",
-            "last_updated": "1669240986",
+            "last_updated": "1669240987",
             "groups": {
-                "vex": [
+                "cheese": [
                     "https://i.imgur.com/pUHp0np.png",
                     "https://i.imgur.com/I468UH0.png",
                     "https://i.imgur.com/fYiiPf9.png",
