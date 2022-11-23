@@ -172,31 +172,30 @@
                 ]
             }
         },
-        "154": {
-            "title": "Kaguya Shinomiya's Impossible Challenge: The Swallow's Cowry, Part 2",
-            "volume": "16",
-            "last_updated": "1665586264",
+        "145": {
+            "title": "Kaguya Wants to Eat (Ice)",
+            "volume": "15",
+            "last_updated": "1669240986",
             "groups": {
                 "vex": [
-                    "https://i.imgur.com/HOmUmR2.jpg",
-                    "https://i.imgur.com/hXnou9j.jpg",
-                    "https://i.imgur.com/Nj1PHEK.jpg",
-                    "https://i.imgur.com/aoOAWHe.jpg",
-                    "https://i.imgur.com/OaJhNDk.jpg",
-                    "https://i.imgur.com/gitHZm0.jpg",
-                    "https://i.imgur.com/w3skTwp.jpg",
-                    "https://i.imgur.com/Eh5tn6U.jpg",
-                    "https://i.imgur.com/qKZzwgE.jpg",
-                    "https://i.imgur.com/PEQwsaO.jpg",
-                    "https://i.imgur.com/I9WPMFC.jpg",
-                    "https://i.imgur.com/2AtPNoe.jpg",
-                    "https://i.imgur.com/rXq09xs.jpg",
-                    "https://i.imgur.com/kUPRq1N.jpg",
-                    "https://i.imgur.com/flxkkHj.jpg",
-                    "https://i.imgur.com/0pn5iEV.jpg",
-                    "https://i.imgur.com/TT8K3XG.jpg",
-                    "https://i.imgur.com/Umm9fKx.jpg",
-                    "https://i.imgur.com/4g3scVB.jpg"
+                    "https://i.imgur.com/pUHp0np.png",
+                    "https://i.imgur.com/I468UH0.png",
+                    "https://i.imgur.com/fYiiPf9.png",
+                    "https://i.imgur.com/UiEAler.png",
+                    "https://i.imgur.com/2SdIHWn.png",
+                    "https://i.imgur.com/9rv8H4U.png",
+                    "https://i.imgur.com/gayWtET.png",
+                    "https://i.imgur.com/V590Zc8.png",
+                    "https://i.imgur.com/uLxqoWj.png",
+                    "https://i.imgur.com/MQUC9di.png",
+                    "https://i.imgur.com/upU5E48.png",
+                    "https://i.imgur.com/6Er8Pya.png",
+                    "https://i.imgur.com/F1Mkr1i.png",
+                    "https://i.imgur.com/hIyoSEg.png",
+                    "https://i.imgur.com/5R9UZvK.png",
+                    "https://i.imgur.com/Ma1SE9r.png",
+                    "https://i.imgur.com/iJM85Hy.png",
+                    "https://i.imgur.com/0VKzqje.png"
                 ]
             }
         },
